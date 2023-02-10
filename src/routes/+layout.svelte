@@ -4,7 +4,7 @@
 
 	import { AppBar, AppShell, LightSwitch } from '@skeletonlabs/skeleton';
 	import '../app.css';
-	import SideBar from './SideBar.svelte';
+	import SideBar from './components/core/SideBar.svelte';
 
 	const year = new Date().getFullYear();
 </script>
