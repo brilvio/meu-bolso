@@ -10,7 +10,7 @@ module.exports = {
 		'plugin:svelte/prettier',
 		'prettier'
 	],
-	plugins: ['@typescript-eslint', 'import', 'prettier-plugin-svelte', 'prettier-plugin-tailwindcss'],
+	plugins: ['@typescript-eslint', 'import'],
 	ignorePatterns: [],
 	settings: {
 		'import/resolver': {
